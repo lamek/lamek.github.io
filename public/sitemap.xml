@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://github.com/lamek/hugotest.git/blog/welcome/</loc>
+    <lastmod>2017-03-02T21:56:55+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://github.com/lamek/hugotest.git/docs/quick-start/</loc>
+  </url>
+  
+  <url>
+    <loc>https://github.com/lamek/hugotest.git/docs/custom-plugins/</loc>
+  </url>
+  
+  <url>
+    <loc>https://github.com/lamek/hugotest.git/docs/typography/</loc>
+  </url>
+  
+  <url>
+    <loc>https://github.com/lamek/hugotest.git/blog/typography/</loc>
+  </url>
+  
+  <url>
+    <loc>https://github.com/lamek/hugotest.git/blog/prototyping/</loc>
+    <lastmod>2017-04-02T22:01:15+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://github.com/lamek/hugotest.git/docs/grid/</loc>
+  </url>
+  
+  <url>
+    <loc>https://github.com/lamek/hugotest.git/docs/tables/</loc>
+    <lastmod>2017-04-10T16:40:43+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://github.com/lamek/hugotest.git/docs/forms/</loc>
+    <lastmod>2017-04-10T16:40:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://github.com/lamek/hugotest.git/docs/buttons/</loc>
+    <lastmod>2017-04-10T16:41:16+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://github.com/lamek/hugotest.git/docs/labels/</loc>
+    <lastmod>2017-04-10T16:40:43+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://github.com/lamek/hugotest.git/blog/messages/</loc>
+    <lastmod>2017-04-10T16:41:34+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://github.com/lamek/hugotest.git/docs/messages/</loc>
+    <lastmod>2017-04-10T16:41:34+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://github.com/lamek/hugotest.git/docs/tabs/</loc>
+    <lastmod>2017-04-10T16:41:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://github.com/lamek/hugotest.git/docs/breadcrumbs/</loc>
+    <lastmod>2017-04-10T16:41:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://github.com/lamek/hugotest.git/newitem/something/</loc>
+    <lastmod>2017-04-10T16:41:54+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://github.com/lamek/hugotest.git/docs/pagination/</loc>
+    <lastmod>2017-04-10T16:42:03+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://github.com/lamek/hugotest.git/docs/dropdown/</loc>
+    <lastmod>2017-04-10T16:42:12+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://github.com/lamek/hugotest.git/docs/modal/</loc>
+    <lastmod>2017-04-10T16:42:18+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://github.com/lamek/hugotest.git/docs/sticky/</loc>
+    <lastmod>2017-04-10T16:42:26+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://github.com/lamek/hugotest.git/blog/collapse/</loc>
+    <lastmod>2017-04-10T16:42:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://github.com/lamek/hugotest.git/docs/collapse/</loc>
+    <lastmod>2017-04-10T16:42:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://github.com/lamek/hugotest.git/docs/offcanvas/</loc>
+    <lastmod>2017-04-10T16:42:43+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://github.com/lamek/hugotest.git/docs/toggleme/</loc>
+    <lastmod>2017-04-10T16:42:59+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://github.com/lamek/hugotest.git/docs/animation/</loc>
+    <lastmod>2017-04-10T16:43:08+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://github.com/lamek/hugotest.git/docs/colors/</loc>
+    <lastmod>2017-04-10T16:43:14+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://github.com/lamek/hugotest.git/docs/sizing/</loc>
+    <lastmod>2017-04-10T16:43:21+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://github.com/lamek/hugotest.git/docs/mixins/</loc>
+    <lastmod>2017-04-10T16:43:36+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://github.com/lamek/hugotest.git/docs/utils/</loc>
+    <lastmod>2017-04-10T16:43:30+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://github.com/lamek/hugotest.git/blog/inline-style/</loc>
+    <lastmod>2017-04-02T21:56:55+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://github.com/lamek/hugotest.git/blog/</loc>
+    <lastmod>2017-04-02T21:56:55+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://github.com/lamek/hugotest.git/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://github.com/lamek/hugotest.git/company/</loc>
+  </url>
+  
+  <url>
+    <loc>https://github.com/lamek/hugotest.git/categories/design/</loc>
+    <lastmod>2017-04-02T22:01:15+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://github.com/lamek/hugotest.git/docs/</loc>
+    <lastmod>2017-04-10T16:40:43+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://github.com/lamek/hugotest.git/tags/example/</loc>
+    <lastmod>2017-03-02T21:56:55+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://github.com/lamek/hugotest.git/faq/</loc>
+  </url>
+  
+  <url>
+    <loc>https://github.com/lamek/hugotest.git/categories/general/</loc>
+    <lastmod>2017-03-02T21:56:55+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://github.com/lamek/hugotest.git/tags/hugo/</loc>
+    <lastmod>2017-04-02T22:01:15+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://github.com/lamek/hugotest.git/</loc>
+    <lastmod>2017-03-02T21:56:55+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://github.com/lamek/hugotest.git/tags/markdown/</loc>
+    <lastmod>2017-03-02T21:56:55+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://github.com/lamek/hugotest.git/newitem/</loc>
+    <lastmod>2017-04-10T16:41:54+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://github.com/lamek/hugotest.git/password-recovery/</loc>
+  </url>
+  
+  <url>
+    <loc>https://github.com/lamek/hugotest.git/tags/prototype/</loc>
+    <lastmod>2017-04-02T22:01:15+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://github.com/lamek/hugotest.git/account/</loc>
+  </url>
+  
+  <url>
+    <loc>https://github.com/lamek/hugotest.git/tags/</loc>
+    <lastmod>2017-03-02T21:56:55+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://github.com/lamek/hugotest.git/faq/something/</loc>
+  </url>
+  
+</urlset>
